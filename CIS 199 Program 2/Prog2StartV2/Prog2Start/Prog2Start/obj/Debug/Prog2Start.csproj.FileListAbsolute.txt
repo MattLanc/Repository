@@ -1,0 +1,14 @@
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\bin\Debug\Prog2Start.exe.config
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\bin\Debug\Prog2Start.exe
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\bin\Debug\Prog2Start.pdb
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.csproj.AssemblyReference.cache
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.csproj.SuggestedBindingRedirects.cache
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.computerViewForm.resources
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.Properties.Resources.resources
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.csproj.GenerateResource.cache
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.csproj.CoreCompileInputs.cache
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.exe
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.pdb
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.TowerForm.resources
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.AllinOneForm.resources
+J:\Program 2\Prog2StartV2\Prog2Start\Prog2Start\obj\Debug\Prog2Start.LaptopForm.resources
