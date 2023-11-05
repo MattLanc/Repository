@@ -1,0 +1,15 @@
+C:\Users\kac67\Documents\School\200 F23\Source\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\kac67\Documents\School\200 F23\Source\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\kac67\Documents\School\200 F23\Source\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\kac67\Documents\School\200 F23\Source\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\kac67\Documents\School\200 F23\Source\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\kac67\Documents\School\200 F23\Source\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\kac67\Documents\School\200 F23\Source\Lab3\Lab3\obj\Debug\Lab3.pdb
+J:\Lab 3 CIS 200\Lab3\Lab3\bin\Debug\Lab3.exe.config
+J:\Lab 3 CIS 200\Lab3\Lab3\bin\Debug\Lab3.exe
+J:\Lab 3 CIS 200\Lab3\Lab3\bin\Debug\Lab3.pdb
+J:\Lab 3 CIS 200\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+J:\Lab 3 CIS 200\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+J:\Lab 3 CIS 200\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+J:\Lab 3 CIS 200\Lab3\Lab3\obj\Debug\Lab3.exe
+J:\Lab 3 CIS 200\Lab3\Lab3\obj\Debug\Lab3.pdb

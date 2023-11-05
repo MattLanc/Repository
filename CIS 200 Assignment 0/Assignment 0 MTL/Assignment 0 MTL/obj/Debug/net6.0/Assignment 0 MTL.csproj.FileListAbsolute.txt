@@ -1,0 +1,5 @@
+J:\Assignment 0\Assignment 0 MTL\Assignment 0 MTL\obj\Debug\net6.0\Assignment 0 MTL.csproj.AssemblyReference.cache
+J:\Assignment 0\Assignment 0 MTL\Assignment 0 MTL\obj\Debug\net6.0\Assignment 0 MTL.GeneratedMSBuildEditorConfig.editorconfig
+J:\Assignment 0\Assignment 0 MTL\Assignment 0 MTL\obj\Debug\net6.0\Assignment 0 MTL.AssemblyInfoInputs.cache
+J:\Assignment 0\Assignment 0 MTL\Assignment 0 MTL\obj\Debug\net6.0\Assignment 0 MTL.AssemblyInfo.cs
+J:\Assignment 0\Assignment 0 MTL\Assignment 0 MTL\obj\Debug\net6.0\Assignment 0 MTL.csproj.CoreCompileInputs.cache
